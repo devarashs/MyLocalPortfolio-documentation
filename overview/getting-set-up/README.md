@@ -2,32 +2,24 @@
 
 <details>
 
-<summary>Step1: Creating your organization</summary>
+<summary>User Dashboard</summary>
 
-
-
-</details>
-
-<details>
-
-<summary>Step 2: Inviting your team</summary>
-
-
+Refer to [#user-dashboard](./#user-dashboard "mention")
 
 </details>
 
 <details>
 
-<summary>Step 3: Making your first post</summary>
+<summary>My Portfolio</summary>
 
-
+Refer to [#my-portfolio](./#my-portfolio "mention")
 
 </details>
 
 <details>
 
-<summary>Step 4: Publishing a post</summary>
+<summary>Homepage</summary>
 
-
+Refer to [#homepage](./#homepage "mention")
 
 </details>

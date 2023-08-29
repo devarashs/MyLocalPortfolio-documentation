@@ -8,11 +8,11 @@
   * [📝 Setting Up Frontend](overview/getting-set-up/setting-up-frontend.md)
   * [📝 Setting Up Backend](overview/getting-set-up/setting-up-backend.md)
 
-## Frontend Guides
+## User Interface Guides
 
-* [📪 User Dashboard](frontend-guides/user-dashboard.md)
-* [📪 My Portfolio](frontend-guides/my-portfolio.md)
-* [📪 Homepage](frontend-guides/homepage.md)
+* [📪 User Dashboard](user-interface-guides/user-dashboard.md)
+* [📪 My Portfolio](user-interface-guides/my-portfolio.md)
+* [📪 Homepage](user-interface-guides/homepage.md)
 
 ## Backend Guides
 
