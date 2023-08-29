@@ -21,6 +21,6 @@ You Get a simple Pie Chart for now visualizing your assets And A Table That Give
 
 <figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
-This is A Simple Editor That Let's Your Edit Your Assets Values. You Can Access it By Clicking on The Pen that Exist in each Row Of The Table , You Can Also Delete The Each Asset By Clicking On the X button.
+This is A Simple Editor That Let's You Edit Your Assets Values. You Can Access it By Clicking on The Pen that Exist in each Row Of The Table , You Can Also Delete The Each Asset By Clicking On the X button.
 
 <figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
