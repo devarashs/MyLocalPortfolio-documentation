@@ -4,7 +4,7 @@
 **GitBook tip:** Packages are All Managed By Yarn , Both in frontend and Backend , its Recommended to use Yarn
 {% endhint %}
 
-### Set Up an Mongo DB database first and simply give the URI to your .env file
+### Set Up a Mongo DB database first and simply give the URI to your .env file
 
 ## Set Up Your .env File in the root Directory
 
