@@ -1,6 +1,6 @@
 # 🔗 User Data Model
 
-Data Models are Built using Mongoose Data Schema For MongoDB Database Below You See The Model That is Shaping Property in the Databse\
+Data Models are Built using Mongoose Data Schema For MongoDB Database Below You See The Model That is Shaping Property in the Database\
 
 
 ```javascript
